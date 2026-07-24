@@ -26,4 +26,4 @@ Federal Reserve Economic Data
 
 
 ## Dashboard Preview
-![Power Bi Economic Dashboard](
+![Power Bi Economic Dashboard](power-bi-economic-dashboard.png)
