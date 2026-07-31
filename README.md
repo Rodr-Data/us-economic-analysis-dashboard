@@ -27,3 +27,6 @@ Federal Reserve Economic Data
 
 ## Dashboard Preview
 ![Power Bi Economic Dashboard](power-bi-economic-dashboard.png)
+
+## State Unemployment Map
+![State Map](dashboard-page2-map.png)
